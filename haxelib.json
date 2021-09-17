@@ -1,0 +1,15 @@
+{
+  "name": "hxjs-google-libphonenumber",
+  "license": "MIT",
+  "tags": [
+    "google-libphonenumber",
+    "extern"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "dependencies": {}
+}
